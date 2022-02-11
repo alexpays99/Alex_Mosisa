@@ -9,6 +9,7 @@ Hard Skills:
 - Networking: REST API
 - Other skills: GIT, Postman
 
+
 - 🌱 I’m currently learning Flutter development and making portfolio
 - ⚡ Hobbies: Gym, reading books, networking with interesting people.
 - 💬 Any suggestions? I'm free for 24/5.
