@@ -14,8 +14,6 @@ Hard Skills:
 - 💬 Any suggestions? I'm free for 24/5.
 - 📫 How to reach me: mosisa.alex@gmail.com
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=alexpays99
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpays99)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=alexpays99&show_icons=true
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpays99&show_icons=true)
