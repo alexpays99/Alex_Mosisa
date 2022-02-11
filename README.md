@@ -2,7 +2,7 @@
 #### I am Flutter developer
 ![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/9459291/41040046-92bae3f8-699b-11e8-8f3e-6430b16a54f1.gif)
 
--Hard Skills: 
+Hard Skills: 
       - Languages:  Dart, C#, HTML, CSS.
       - State management: BloC , Provider.
       - Framework and tools : Flutter SDK.
