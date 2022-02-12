@@ -17,10 +17,10 @@ Hard Skills:
 - Other skills: GIT
 
 
-- 🌱 I’m currently learning Flutter development and making portfolio
-- ⚡ Hobbies: Gym, reading books, networking with interesting people.
-- 💬 Any suggestions? I'm free for 24/5.
-- 📫 How to reach me: mosisa.alex@gmail.com
+🌱 I’m currently learning Flutter development and making portfolio
+⚡ Hobbies: Gym, reading books, networking with interesting people.
+💬 Any suggestions? I'm free for 24/5.
+📫 How to reach me: mosisa.alex@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpays99)](https://github.com/anuraghazra/github-readme-stats)
 
