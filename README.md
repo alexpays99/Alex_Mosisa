@@ -14,7 +14,7 @@ Hard Skills:
 - Languages:  Dart, C#, HTML, CSS.
 - State management: BloC , Provider.
 - Networking: REST API
-- Other skills: GIT, Postman
+- Other skills: GIT
 
 
 - 🌱 I’m currently learning Flutter development and making portfolio
