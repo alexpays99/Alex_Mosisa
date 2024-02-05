@@ -1,7 +1,6 @@
 ### Heyo 👋Devs. 
 ### My name is Alex.
 #### I am Flutter developer
-![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/9459291/41040046-92bae3f8-699b-11e8-8f3e-6430b16a54f1.gif)
 
 <p align="left">
 </p>
